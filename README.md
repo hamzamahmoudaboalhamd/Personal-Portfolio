@@ -1,4 +1,4 @@
-# 👤 Hamza Mahmoud - Personal Portfolio Website
+# 👤- Personal Portfolio Website
 
 [![Technology: HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Design: Pure CSS3](https://img.shields.io/badge/Styling-Pure%20CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
